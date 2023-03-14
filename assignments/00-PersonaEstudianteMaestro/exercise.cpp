@@ -19,5 +19,7 @@ int main()
   std::cout << "Los datos de la persona 2 son: \n";
   std::cout << "Nombre: " << pedro.getNombre() << " Edad: " << pedro.getEdad() << "\n";
 
+  std::cout << "Los datos del estudiante 2 son:\n";
+
   return 0;
 }
